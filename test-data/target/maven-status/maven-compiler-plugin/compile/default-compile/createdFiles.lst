@@ -1,0 +1,6 @@
+own\User$UserBuilder.class
+own\User.class
+controller\UserController.class
+service\UserService.class
+repositories\UserDAO.class
+app\Application.class
